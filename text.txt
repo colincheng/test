@@ -1,4 +1,4 @@
-first line from feature1
+first line from main
 second line from main
 thrid line from feature1
 fourth line form feature1
